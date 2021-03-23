@@ -1,3 +1,4 @@
+//单链表 更新队列
 class Update {
   constructor(payload, nextUpdate) {
     this.payload = payload
